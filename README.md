@@ -1,0 +1,17 @@
+<html> 
+ <head>
+  <title>'권주연'을 소개합니다~</title>
+  <META http-equiv="keyword" content= "Kwon Juyeon, kwon juyeon, 권주연, 주연, jooyeon, juyeon, kwonjuyeon, Kwonjuyeon">
+   <META name="description" content= "자기소개 웹사이트">
+ </head>
+ <body bgcolor="#FFCC00" text="#66FF66">
+  <h1><a href="index.html"><u>'권주연'을 소개합니다</u></a></h1>
+  <ol>
+   <li>이름: 권주연</li><br>
+   <li>생년월일: 080922</li><br>
+   <li>좋아하는 것: 배드민턴</li><br>
+   <li>학교: <a href="https://school.gyo6.net/gsshs/main.do?sysId=gsshs" 
+target="_blank" title="겻곽 홈페이지">경산과학고등학교</a><br>
+  </ol>
+ </body>
+</html>
